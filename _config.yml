@@ -7,7 +7,7 @@ menu:
   关于: /about
 
 # 是否显示目录
-TOC: false
+TOC: true
 
 # 是否自动播放音乐
 autoplay: false
@@ -36,7 +36,7 @@ scrollbar: true
 # 本地搜索,请将索引文件放在网站根目录,或修改主题js文件的path值
 local_search:
     # 是否启用
-    enable: false
+    enable: true
 
 # 是否显示 一言(hitokoto)
 hitokoto: true
@@ -82,7 +82,7 @@ gitalk:
     distractionFreeMode: false
 
 # 网站关键字
-keywords: Fechin
+keywords: Axpv
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: 
